@@ -5,7 +5,7 @@
 ![(ウニ)すし](https://cdn.emojidex.com/emoji/seal/(ウニ)すし.png "(ウニ)すし")
 
 
-**??What's sea urchins??**  
+**??What's sea urchin = uni??**  
 - Sea urchin, or *uni* (pronounce ooo-nie) is popular sushi topping in Japan. 
 - I saw some restaurants in NYC serves uni *nigiri* but little I knew about uni in the US.
 - In this project, I analyzed the sea urchin landings in the US and found that California produces the most sea urchins.
