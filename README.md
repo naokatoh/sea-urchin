@@ -1,5 +1,5 @@
 # Sea Urchin is a Beloved Sushi Topping in Japan. Find Out the Best State to Try it in the U.S.
-
+The article is [here](https://naokatoh.github.io/sea_urchin/)
 
 ## Overview
 ![(ウニ)すし](https://cdn.emojidex.com/emoji/seal/(ウニ)すし.png "(ウニ)すし")
@@ -15,6 +15,13 @@
 ## What I did with which skill
 - Python (BeautifulSoup, Selenium, pandas, ggplot) :for data analysis
 - datawrapper :for data viz
+
+## Files
+'''urchin_state_dw.xlsx'''is a table I used to make the first chart in the [article](https://naokatoh.github.io/sea_urchin/).
+See complete file at '''uni_state.csv'''
+'''uni_price.csv''' is a table I used to make the second chart in the [article](https://naokatoh.github.io/sea_urchin/).
+'''uchin_landing_us.ipynb''' here I analyzed the landing data from [NOAA Database](https://www.fisheries.noaa.gov/foss/f?p=215:200:17118210909997:Mail:NO:::) and other sourceses
+'''uni_price.ipynb''' here I analyzed the landing and ex-vessel price data from [Red Sea Urchin Enhanced Status Report 2.The Fishery](https://marinespecies.wildlife.ca.gov/red-sea-urchin/the-fishery/) by scraoing the website to get a table. 
 
 ## Reference
 - [NOAA Database](https://www.fisheries.noaa.gov/foss/f?p=215:200:17118210909997:Mail:NO:::)  
