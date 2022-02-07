@@ -16,6 +16,10 @@ The article is [here](https://naokatoh.github.io/sea_urchin/)
 - Python (BeautifulSoup, Selenium, pandas, ggplot) :for data analysis
 - datawrapper :for data viz
 
+- **Thing that I tried and feel satisfied**: Finding relevant datasets what I looked for😊 Datawrapper skills and data biz😊 Feel more confident using html/css😊
+- **Thing that I tried but couldn't complete**: I found Japan Aerospace Exploration Agency’s Earth observation satellite database and succeeded to downloading sea surface temperatures rise images in the California Coast [G\-PortalTop](https://gportal.jaxa.jp/gpr/) but found it extremely difficult to dealing with .h5 file to adapt them on the shapefile. 
+
+
 ## Files
 - ```urchin_state_dw.xlsx```is a table I used to make the first chart in the [article](https://naokatoh.github.io/sea_urchin/).
 - See complete file at ```uni_state.csv```
