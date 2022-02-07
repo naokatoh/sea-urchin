@@ -17,7 +17,7 @@ The article is [here](https://naokatoh.github.io/sea_urchin/)
 - datawrapper :for data viz
 
 - **Thing that I tried and feel satisfied**: Finding relevant datasets what I looked for😊 Datawrapper skills and data biz😊 Feel more confident using html/css😊
-- **Thing that I tried but couldn't complete**: I found Japan Aerospace Exploration Agency’s Earth observation satellite database and succeeded to downloading sea surface temperatures rise images in the California Coast [G\-PortalTop](https://gportal.jaxa.jp/gpr/) but found it extremely difficult to dealing with .h5 file to adapt them on the shapefile. 
+- **Thing that I tried but couldn't complete**: I found Japan Aerospace Exploration Agency’s Earth observation satellite database and succeeded to downloading sea surface temperatures rise images in the California Coast [G\-PortalTop](https://gportal.jaxa.jp/gpr/) but found it extremely difficult to dealing with .h5 file to adapt them on the shapefile 😥 (I tried to create a map with QGIS)
 
 
 ## Files
