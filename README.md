@@ -21,7 +21,7 @@ The article is [here](https://naokatoh.github.io/sea_urchin/)
 
 
 ## Files
-- ```urchin_state_dw.xlsx```is a table I used to make the first chart in the [article](https://naokatoh.github.io/sea_urchin/).
+- ```urchin_state_dw.xlsx```is a table I used to make the first chart in the [article](https://naokatoh.github.io/sea-urchin/).
 - See complete file at ```uni_state.csv```
 - ```uni_price.csv``` is a table I used to make the second chart in the [article](https://naokatoh.github.io/sea_urchin/).
 - ```uchin_landing_us.ipynb```here I analyzed the landing data from [NOAA Database](https://www.fisheries.noaa.gov/foss/f?p=215:200:17118210909997:Mail:NO:::) and other sourceses
